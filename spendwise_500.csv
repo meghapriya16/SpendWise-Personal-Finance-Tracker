@@ -1,0 +1,501 @@
+Date,Category,Description,Amount,Type
+2025-05-10,Education,Tuition fee,3248.23,Expense
+2025-01-25,Healthcare,Checkup,2478.65,Expense
+2025-03-07,Travel,Vacation trip,3686.2,Expense
+2025-02-03,Entertainment,Concert,2034.06,Expense
+2025-03-07,Bills,Mobile recharge,1436.23,Expense
+2025-04-27,Investment Return,Stocks,26774.91,Income
+2025-02-04,Travel,Train ticket,4522.95,Expense
+2025-01-23,Food,Dinner,1474.04,Expense
+2025-01-26,Shopping,Electronics,3880.01,Expense
+2025-04-14,Freelance,Logo creation,2360.98,Income
+2025-03-15,Gift,Friend's gift,315.1,Expense
+2025-02-09,Healthcare,Insurance,3125.31,Expense
+2025-05-04,Entertainment,Movie,1147.32,Expense
+2025-05-25,Entertainment,Concert,4631.27,Expense
+2025-05-03,Shopping,Clothes,1213.23,Expense
+2025-03-14,Bills,Water bill,1863.45,Expense
+2025-04-08,Shopping,Accessories,940.06,Expense
+2025-05-17,Investment Return,Mutual funds,26198.8,Income
+2025-04-14,Education,Books,810.76,Expense
+2025-03-13,Bills,Internet,628.45,Expense
+2025-03-12,Freelance,App testing,9572.57,Income
+2025-01-14,Shopping,Shoes,2528.57,Expense
+2025-06-20,Education,Books,2849.45,Expense
+2025-01-18,Freelance,Web design,26958.91,Income
+2025-05-07,Transport,Metro pass,4685.66,Expense
+2025-04-10,Food,Lunch,1839.63,Expense
+2025-05-03,Education,Books,3560.0,Expense
+2025-04-01,Bills,Internet,808.63,Expense
+2025-01-04,Healthcare,Medicines,1936.29,Expense
+2025-04-30,Food,Snacks,3463.79,Expense
+2025-01-22,Freelance,App testing,10575.12,Income
+2025-06-16,Freelance,Logo creation,3407.79,Income
+2025-04-15,Bills,Electricity,2284.75,Expense
+2025-04-19,Travel,Flight,1521.01,Expense
+2025-02-23,Bonus,Quarterly bonus,27842.78,Income
+2025-06-26,Food,Dinner,2153.04,Expense
+2025-01-25,Shopping,Electronics,1341.25,Expense
+2025-01-04,Bills,Water bill,4006.41,Expense
+2025-04-28,Freelance,Logo creation,18344.34,Income
+2025-06-16,Freelance,Web design,21370.27,Income
+2025-06-18,Entertainment,Concert,1864.49,Expense
+2025-04-12,Travel,Train ticket,4241.14,Expense
+2025-03-15,Investment Return,Stocks,4255.18,Income
+2025-03-23,Bonus,Quarterly bonus,13260.52,Income
+2025-03-23,Education,Tuition fee,448.43,Expense
+2025-06-05,Salary,Monthly salary,5007.06,Income
+2025-03-30,Travel,Vacation trip,4436.53,Expense
+2025-05-26,Transport,Bus fare,383.53,Expense
+2025-01-28,Bills,Mobile recharge,2048.92,Expense
+2025-05-14,Bills,Internet,2043.6,Expense
+2025-01-25,Food,Groceries,3031.22,Expense
+2025-03-25,Transport,Fuel,1352.43,Expense
+2025-05-13,Healthcare,Insurance,4961.99,Expense
+2025-03-29,Bills,Mobile recharge,1156.19,Expense
+2025-03-15,Shopping,Shoes,4894.25,Expense
+2025-04-04,Education,Books,166.92,Expense
+2025-02-10,Food,Lunch,3797.37,Expense
+2025-03-27,Entertainment,Movie,3282.73,Expense
+2025-02-05,Transport,Metro pass,1068.3,Expense
+2025-05-29,Entertainment,Movie,757.79,Expense
+2025-06-30,Travel,Flight,1027.98,Expense
+2025-01-18,Investment Return,Stocks,5616.5,Income
+2025-06-24,Food,Dinner,3435.08,Expense
+2025-02-15,Bills,Electricity,1806.03,Expense
+2025-03-19,Salary,Side job salary,25658.33,Income
+2025-02-17,Travel,Vacation trip,1857.94,Expense
+2025-01-24,Freelance,App testing,26124.93,Income
+2025-04-14,Transport,Fuel,3338.31,Expense
+2025-02-13,Healthcare,Medicines,1343.05,Expense
+2025-06-07,Food,Groceries,2593.76,Expense
+2025-05-29,Freelance,Web design,20796.3,Income
+2025-05-05,Healthcare,Medicines,3942.62,Expense
+2025-04-16,Entertainment,Netflix,4132.74,Expense
+2025-01-06,Investment Return,Crypto profit,23419.43,Income
+2025-01-11,Salary,Side job salary,25795.19,Income
+2025-05-02,Healthcare,Checkup,2317.47,Expense
+2025-03-19,Salary,Side job salary,610.13,Income
+2025-04-22,Food,Snacks,179.59,Expense
+2025-01-19,Investment Return,Crypto profit,20734.82,Income
+2025-02-13,Entertainment,Movie,3414.97,Expense
+2025-02-09,Food,Dinner,3958.35,Expense
+2025-04-01,Investment Return,Stocks,21182.24,Income
+2025-06-24,Healthcare,Medicines,1863.98,Expense
+2025-05-22,Healthcare,Medicines,4317.4,Expense
+2025-01-02,Entertainment,Games,4870.09,Expense
+2025-05-29,Gift,Friend's gift,4222.34,Expense
+2025-03-06,Salary,Side job salary,24527.92,Income
+2025-06-07,Education,Tuition fee,3421.11,Expense
+2025-01-24,Healthcare,Checkup,2302.55,Expense
+2025-03-11,Travel,Vacation trip,994.29,Expense
+2025-05-24,Healthcare,Insurance,1358.46,Expense
+2025-04-08,Bonus,Quarterly bonus,4666.72,Income
+2025-02-09,Gift,Friend's gift,185.48,Expense
+2025-02-03,Travel,Bus pass,2669.74,Expense
+2025-02-22,Bills,Mobile recharge,4851.04,Expense
+2025-02-24,Investment Return,Crypto profit,7094.86,Income
+2025-06-25,Entertainment,Concert,2225.92,Expense
+2025-05-26,Gift,Birthday,4611.13,Expense
+2025-03-15,Transport,Bus fare,2691.9,Expense
+2025-05-16,Bonus,Performance bonus,28681.3,Income
+2025-06-13,Shopping,Accessories,4091.57,Expense
+2025-03-23,Entertainment,Netflix,2436.5,Expense
+2025-01-26,Food,Lunch,1617.97,Expense
+2025-04-28,Food,Dinner,1674.32,Expense
+2025-02-04,Freelance,Web design,12895.54,Income
+2025-02-27,Bonus,Quarterly bonus,24443.3,Income
+2025-01-13,Transport,Metro pass,1962.37,Expense
+2025-03-04,Transport,Bus fare,2594.5,Expense
+2025-04-19,Food,Snacks,1139.82,Expense
+2025-01-29,Travel,Vacation trip,430.91,Expense
+2025-06-18,Travel,Flight,2419.08,Expense
+2025-01-16,Education,Online course,4568.61,Expense
+2025-04-09,Travel,Bus pass,1448.26,Expense
+2025-06-22,Gift,Birthday,3517.98,Expense
+2025-04-11,Entertainment,Movie,1428.22,Expense
+2025-01-09,Salary,Side job salary,16853.51,Income
+2025-06-29,Food,Dinner,3218.41,Expense
+2025-04-16,Education,Tuition fee,793.13,Expense
+2025-04-25,Shopping,Shoes,1107.39,Expense
+2025-04-13,Salary,Side job salary,6333.91,Income
+2025-06-01,Freelance,Web design,10006.74,Income
+2025-06-26,Transport,Fuel,3976.94,Expense
+2025-06-09,Transport,Metro pass,4346.92,Expense
+2025-04-08,Education,Books,803.01,Expense
+2025-03-15,Travel,Train ticket,719.83,Expense
+2025-06-04,Transport,Metro pass,791.41,Expense
+2025-05-20,Investment Return,Stocks,10214.86,Income
+2025-04-27,Gift,Friend's gift,104.5,Expense
+2025-02-26,Bonus,Performance bonus,6071.02,Income
+2025-03-19,Healthcare,Checkup,2297.8,Expense
+2025-02-12,Bonus,Performance bonus,7007.9,Income
+2025-01-09,Salary,Monthly salary,7295.15,Income
+2025-03-05,Education,Tuition fee,1658.12,Expense
+2025-03-31,Healthcare,Medicines,3969.31,Expense
+2025-02-18,Healthcare,Insurance,2069.7,Expense
+2025-03-16,Shopping,Clothes,450.67,Expense
+2025-01-19,Shopping,Clothes,816.51,Expense
+2025-05-27,Healthcare,Insurance,398.32,Expense
+2025-02-28,Freelance,Web design,3228.02,Income
+2025-06-19,Entertainment,Games,2999.48,Expense
+2025-01-08,Freelance,Web design,18475.27,Income
+2025-04-12,Education,Books,882.93,Expense
+2025-04-07,Shopping,Accessories,1359.02,Expense
+2025-05-04,Gift,Birthday,1552.74,Expense
+2025-03-17,Entertainment,Concert,430.15,Expense
+2025-04-24,Travel,Vacation trip,4719.65,Expense
+2025-02-20,Healthcare,Medicines,865.17,Expense
+2025-03-25,Investment Return,Crypto profit,14886.09,Income
+2025-03-31,Salary,Monthly salary,6534.96,Income
+2025-01-22,Bonus,Performance bonus,13929.83,Income
+2025-03-17,Travel,Vacation trip,2218.84,Expense
+2025-05-24,Gift,Birthday,1361.65,Expense
+2025-04-19,Salary,Side job salary,17819.03,Income
+2025-01-05,Salary,Monthly salary,6120.5,Income
+2025-05-27,Healthcare,Insurance,694.73,Expense
+2025-01-07,Transport,Fuel,994.42,Expense
+2025-03-14,Freelance,App testing,1008.14,Income
+2025-04-25,Entertainment,Games,2916.93,Expense
+2025-04-27,Food,Snacks,4169.28,Expense
+2025-01-20,Gift,Friend's gift,1786.23,Expense
+2025-06-28,Healthcare,Insurance,3774.89,Expense
+2025-06-01,Healthcare,Checkup,2576.09,Expense
+2025-05-10,Travel,Vacation trip,246.24,Expense
+2025-01-20,Freelance,App testing,19667.5,Income
+2025-04-11,Transport,Cab,1639.26,Expense
+2025-03-21,Gift,Friend's gift,315.27,Expense
+2025-05-04,Shopping,Shoes,1932.1,Expense
+2025-02-15,Transport,Cab,4561.25,Expense
+2025-04-11,Investment Return,Crypto profit,3757.1,Income
+2025-04-05,Salary,Monthly salary,23892.0,Income
+2025-02-14,Food,Lunch,4125.26,Expense
+2025-06-17,Shopping,Accessories,276.04,Expense
+2025-05-19,Food,Snacks,1378.68,Expense
+2025-05-13,Education,Books,4554.43,Expense
+2025-06-25,Food,Lunch,2875.12,Expense
+2025-06-03,Freelance,App testing,25270.42,Income
+2025-05-14,Bills,Mobile recharge,4117.92,Expense
+2025-06-06,Salary,Side job salary,15047.87,Income
+2025-01-08,Travel,Bus pass,3079.05,Expense
+2025-01-16,Healthcare,Medicines,3913.41,Expense
+2025-04-27,Freelance,App testing,10674.86,Income
+2025-02-27,Investment Return,Crypto profit,25206.2,Income
+2025-06-25,Transport,Metro pass,806.47,Expense
+2025-02-05,Freelance,Logo creation,3693.31,Income
+2025-04-09,Entertainment,Games,3168.01,Expense
+2025-06-09,Investment Return,Stocks,887.01,Income
+2025-03-27,Bonus,Performance bonus,10320.04,Income
+2025-05-07,Food,Dinner,3051.26,Expense
+2025-04-21,Salary,Monthly salary,16718.22,Income
+2025-05-17,Bills,Internet,999.58,Expense
+2025-06-27,Salary,Monthly salary,8122.14,Income
+2025-02-13,Education,Books,785.27,Expense
+2025-04-23,Bills,Water bill,817.52,Expense
+2025-05-23,Entertainment,Games,1370.92,Expense
+2025-06-19,Healthcare,Medicines,2901.97,Expense
+2025-05-28,Salary,Monthly salary,17567.75,Income
+2025-02-18,Food,Snacks,2516.33,Expense
+2025-06-05,Shopping,Shoes,1012.89,Expense
+2025-06-06,Entertainment,Movie,4504.45,Expense
+2025-05-09,Education,Online course,3605.4,Expense
+2025-06-26,Healthcare,Insurance,3240.71,Expense
+2025-01-16,Education,Books,3003.27,Expense
+2025-05-17,Entertainment,Concert,2661.49,Expense
+2025-03-22,Travel,Flight,341.98,Expense
+2025-01-04,Bills,Water bill,1668.31,Expense
+2025-03-14,Shopping,Accessories,2103.38,Expense
+2025-03-29,Transport,Bus fare,3741.98,Expense
+2025-05-28,Healthcare,Checkup,2699.06,Expense
+2025-02-24,Investment Return,Stocks,29648.45,Income
+2025-02-15,Freelance,Logo creation,3821.01,Income
+2025-05-30,Healthcare,Insurance,2602.88,Expense
+2025-04-13,Freelance,Logo creation,9484.98,Income
+2025-06-23,Bills,Electricity,2201.36,Expense
+2025-04-22,Travel,Flight,2578.7,Expense
+2025-01-26,Travel,Flight,3042.76,Expense
+2025-05-20,Freelance,App testing,24612.51,Income
+2025-05-18,Transport,Fuel,305.0,Expense
+2025-03-27,Transport,Fuel,4340.76,Expense
+2025-04-03,Food,Snacks,3930.67,Expense
+2025-03-17,Bills,Mobile recharge,3069.02,Expense
+2025-03-18,Investment Return,Stocks,20766.43,Income
+2025-01-05,Entertainment,Concert,2022.44,Expense
+2025-04-14,Food,Groceries,3214.26,Expense
+2025-04-20,Education,Online course,623.24,Expense
+2025-02-27,Freelance,Web design,18303.86,Income
+2025-05-10,Healthcare,Insurance,726.16,Expense
+2025-03-25,Investment Return,Crypto profit,17418.57,Income
+2025-01-04,Freelance,Web design,5039.39,Income
+2025-04-13,Education,Books,621.92,Expense
+2025-05-22,Food,Snacks,3320.45,Expense
+2025-04-13,Education,Online course,4843.37,Expense
+2025-06-05,Transport,Metro pass,3998.31,Expense
+2025-04-07,Shopping,Electronics,4039.45,Expense
+2025-05-10,Food,Lunch,4849.66,Expense
+2025-01-12,Healthcare,Insurance,3372.05,Expense
+2025-05-06,Food,Lunch,4313.07,Expense
+2025-03-07,Investment Return,Crypto profit,25946.16,Income
+2025-01-09,Bills,Electricity,2948.57,Expense
+2025-02-01,Travel,Train ticket,565.39,Expense
+2025-05-16,Investment Return,Stocks,18992.94,Income
+2025-02-08,Bonus,Quarterly bonus,21157.11,Income
+2025-03-28,Transport,Cab,1695.3,Expense
+2025-04-22,Healthcare,Insurance,3221.27,Expense
+2025-05-30,Travel,Flight,1044.05,Expense
+2025-02-22,Bonus,Quarterly bonus,18541.8,Income
+2025-05-14,Shopping,Clothes,1179.75,Expense
+2025-02-18,Food,Snacks,1257.22,Expense
+2025-04-25,Bonus,Performance bonus,4999.26,Income
+2025-02-07,Healthcare,Checkup,694.62,Expense
+2025-05-20,Shopping,Clothes,2319.73,Expense
+2025-03-22,Entertainment,Games,2990.62,Expense
+2025-06-21,Salary,Monthly salary,27928.64,Income
+2025-01-24,Education,Tuition fee,2860.28,Expense
+2025-05-11,Entertainment,Movie,2722.77,Expense
+2025-02-02,Gift,Birthday,3110.35,Expense
+2025-05-21,Entertainment,Games,4780.0,Expense
+2025-03-09,Shopping,Electronics,2742.22,Expense
+2025-01-21,Salary,Monthly salary,16131.1,Income
+2025-05-09,Freelance,App testing,19625.73,Income
+2025-06-03,Transport,Bus fare,1823.84,Expense
+2025-05-13,Education,Tuition fee,4170.25,Expense
+2025-01-06,Food,Groceries,2999.2,Expense
+2025-03-05,Freelance,App testing,27956.6,Income
+2025-03-26,Salary,Monthly salary,24752.23,Income
+2025-05-13,Bills,Electricity,1136.98,Expense
+2025-01-18,Education,Online course,2149.22,Expense
+2025-02-28,Shopping,Clothes,4533.42,Expense
+2025-06-06,Shopping,Electronics,128.04,Expense
+2025-06-18,Entertainment,Netflix,530.6,Expense
+2025-02-14,Bills,Mobile recharge,3286.81,Expense
+2025-06-06,Education,Tuition fee,229.61,Expense
+2025-06-21,Freelance,Logo creation,8899.49,Income
+2025-02-26,Transport,Cab,3510.42,Expense
+2025-02-14,Food,Snacks,1765.0,Expense
+2025-06-16,Shopping,Accessories,4279.84,Expense
+2025-03-11,Education,Books,2359.73,Expense
+2025-04-28,Bonus,Performance bonus,27183.66,Income
+2025-05-09,Investment Return,Stocks,8931.07,Income
+2025-03-18,Entertainment,Games,1665.23,Expense
+2025-04-30,Gift,Birthday,1453.77,Expense
+2025-05-20,Bonus,Quarterly bonus,25373.45,Income
+2025-01-21,Gift,Anniversary gift,4040.37,Expense
+2025-01-29,Gift,Anniversary gift,2870.36,Expense
+2025-02-02,Transport,Bus fare,754.3,Expense
+2025-02-27,Freelance,Logo creation,10418.12,Income
+2025-04-08,Gift,Birthday,3680.53,Expense
+2025-01-06,Entertainment,Movie,1029.81,Expense
+2025-02-28,Travel,Vacation trip,2870.22,Expense
+2025-02-02,Healthcare,Checkup,4782.86,Expense
+2025-05-12,Shopping,Clothes,4500.3,Expense
+2025-02-27,Travel,Flight,3171.63,Expense
+2025-03-12,Shopping,Shoes,4698.26,Expense
+2025-04-03,Salary,Side job salary,208.01,Income
+2025-06-06,Freelance,App testing,9152.55,Income
+2025-03-18,Education,Books,3872.57,Expense
+2025-03-16,Bills,Mobile recharge,2445.69,Expense
+2025-01-06,Bills,Mobile recharge,4420.0,Expense
+2025-03-29,Food,Snacks,4051.9,Expense
+2025-01-14,Gift,Anniversary gift,3497.17,Expense
+2025-01-09,Bills,Internet,2308.71,Expense
+2025-01-23,Education,Tuition fee,992.18,Expense
+2025-01-20,Bills,Mobile recharge,2107.45,Expense
+2025-05-23,Investment Return,Crypto profit,21602.1,Income
+2025-05-31,Travel,Flight,3600.91,Expense
+2025-06-21,Bills,Mobile recharge,354.82,Expense
+2025-01-30,Shopping,Electronics,779.74,Expense
+2025-03-22,Gift,Anniversary gift,2872.65,Expense
+2025-03-01,Gift,Anniversary gift,3360.92,Expense
+2025-03-20,Healthcare,Insurance,4865.25,Expense
+2025-03-25,Healthcare,Checkup,1227.1,Expense
+2025-04-13,Salary,Side job salary,22012.88,Income
+2025-06-04,Healthcare,Insurance,2642.93,Expense
+2025-02-01,Bills,Internet,4991.6,Expense
+2025-05-02,Shopping,Accessories,2819.67,Expense
+2025-02-15,Gift,Friend's gift,1391.39,Expense
+2025-02-07,Gift,Anniversary gift,4960.92,Expense
+2025-06-02,Food,Lunch,4557.94,Expense
+2025-02-19,Salary,Monthly salary,27125.59,Income
+2025-02-24,Bonus,Quarterly bonus,24589.41,Income
+2025-04-05,Investment Return,Mutual funds,25185.43,Income
+2025-01-29,Freelance,App testing,16583.31,Income
+2025-05-20,Shopping,Clothes,3732.63,Expense
+2025-03-18,Food,Dinner,425.3,Expense
+2025-02-16,Salary,Side job salary,3049.84,Income
+2025-04-20,Gift,Anniversary gift,1236.34,Expense
+2025-01-16,Transport,Cab,171.62,Expense
+2025-05-10,Freelance,Logo creation,21921.96,Income
+2025-06-23,Bonus,Quarterly bonus,26800.32,Income
+2025-02-21,Bills,Internet,1223.88,Expense
+2025-05-05,Shopping,Clothes,2982.03,Expense
+2025-02-26,Education,Books,1605.72,Expense
+2025-05-05,Food,Snacks,939.75,Expense
+2025-02-06,Travel,Flight,4669.09,Expense
+2025-02-27,Investment Return,Stocks,18749.37,Income
+2025-04-22,Travel,Train ticket,853.65,Expense
+2025-02-26,Food,Dinner,2600.58,Expense
+2025-02-05,Freelance,Logo creation,13778.88,Income
+2025-06-09,Gift,Birthday,4238.3,Expense
+2025-02-07,Healthcare,Insurance,686.32,Expense
+2025-03-19,Education,Tuition fee,1085.21,Expense
+2025-01-21,Entertainment,Concert,3868.26,Expense
+2025-01-26,Travel,Vacation trip,2809.83,Expense
+2025-01-18,Bills,Electricity,1272.04,Expense
+2025-03-14,Education,Tuition fee,3081.59,Expense
+2025-02-12,Travel,Bus pass,3774.89,Expense
+2025-02-27,Freelance,Logo creation,7256.72,Income
+2025-03-10,Education,Books,1088.74,Expense
+2025-05-21,Education,Tuition fee,913.29,Expense
+2025-06-15,Freelance,App testing,23404.47,Income
+2025-01-27,Gift,Anniversary gift,3186.62,Expense
+2025-02-09,Entertainment,Concert,196.21,Expense
+2025-01-19,Bills,Mobile recharge,4227.55,Expense
+2025-05-03,Bills,Internet,2505.39,Expense
+2025-06-25,Freelance,App testing,3483.03,Income
+2025-03-22,Education,Tuition fee,2360.54,Expense
+2025-04-07,Education,Tuition fee,1683.17,Expense
+2025-03-12,Investment Return,Crypto profit,29839.96,Income
+2025-02-28,Education,Online course,2114.53,Expense
+2025-03-19,Food,Dinner,1499.46,Expense
+2025-04-21,Salary,Side job salary,4745.12,Income
+2025-05-12,Gift,Anniversary gift,3143.1,Expense
+2025-06-14,Entertainment,Games,4399.95,Expense
+2025-04-12,Food,Snacks,647.95,Expense
+2025-06-13,Education,Books,1623.17,Expense
+2025-05-26,Travel,Flight,2785.16,Expense
+2025-03-12,Gift,Birthday,1615.99,Expense
+2025-04-20,Entertainment,Netflix,3050.25,Expense
+2025-06-02,Gift,Birthday,1504.69,Expense
+2025-01-15,Healthcare,Checkup,1058.55,Expense
+2025-04-22,Freelance,App testing,21596.68,Income
+2025-03-20,Food,Lunch,4036.27,Expense
+2025-04-28,Bonus,Quarterly bonus,24187.05,Income
+2025-03-01,Shopping,Electronics,948.92,Expense
+2025-02-20,Healthcare,Insurance,1784.81,Expense
+2025-05-28,Bills,Internet,934.12,Expense
+2025-04-09,Food,Lunch,448.22,Expense
+2025-02-07,Entertainment,Games,4124.72,Expense
+2025-01-16,Bonus,Performance bonus,28614.06,Income
+2025-05-29,Gift,Friend's gift,3929.99,Expense
+2025-03-01,Investment Return,Crypto profit,17475.0,Income
+2025-05-17,Salary,Monthly salary,10752.18,Income
+2025-01-20,Salary,Monthly salary,4992.34,Income
+2025-03-18,Salary,Side job salary,9275.29,Income
+2025-03-06,Shopping,Shoes,1435.0,Expense
+2025-01-22,Food,Dinner,2149.16,Expense
+2025-04-13,Bills,Mobile recharge,2962.13,Expense
+2025-05-04,Education,Online course,2769.86,Expense
+2025-01-15,Shopping,Clothes,2558.4,Expense
+2025-02-18,Travel,Flight,4423.21,Expense
+2025-01-08,Bonus,Quarterly bonus,23875.6,Income
+2025-05-27,Entertainment,Netflix,4190.2,Expense
+2025-03-06,Shopping,Shoes,1346.59,Expense
+2025-02-25,Education,Online course,1436.01,Expense
+2025-05-09,Shopping,Shoes,4555.15,Expense
+2025-02-02,Transport,Bus fare,4190.43,Expense
+2025-01-08,Shopping,Shoes,1516.39,Expense
+2025-02-05,Freelance,Logo creation,3464.37,Income
+2025-03-31,Shopping,Accessories,574.28,Expense
+2025-01-15,Freelance,Web design,5361.09,Income
+2025-03-14,Gift,Anniversary gift,957.52,Expense
+2025-05-17,Bonus,Performance bonus,20461.31,Income
+2025-05-01,Entertainment,Games,3230.54,Expense
+2025-03-31,Bonus,Performance bonus,27431.26,Income
+2025-04-03,Transport,Bus fare,440.15,Expense
+2025-06-10,Education,Tuition fee,2547.16,Expense
+2025-06-27,Travel,Vacation trip,1818.49,Expense
+2025-02-08,Gift,Friend's gift,3498.08,Expense
+2025-05-12,Shopping,Clothes,4612.57,Expense
+2025-05-02,Healthcare,Insurance,2018.39,Expense
+2025-03-14,Salary,Monthly salary,27097.65,Income
+2025-05-11,Salary,Monthly salary,28330.18,Income
+2025-03-07,Travel,Vacation trip,3849.32,Expense
+2025-03-27,Salary,Monthly salary,15374.06,Income
+2025-01-03,Bonus,Performance bonus,25924.77,Income
+2025-06-15,Shopping,Shoes,4557.84,Expense
+2025-06-15,Freelance,Web design,26521.9,Income
+2025-05-02,Travel,Bus pass,4081.39,Expense
+2025-06-20,Healthcare,Checkup,3536.48,Expense
+2025-05-08,Freelance,App testing,11571.09,Income
+2025-04-18,Transport,Metro pass,3097.98,Expense
+2025-01-15,Education,Books,2650.18,Expense
+2025-06-12,Freelance,Web design,18865.25,Income
+2025-01-10,Travel,Vacation trip,4400.61,Expense
+2025-03-23,Healthcare,Checkup,650.23,Expense
+2025-02-17,Freelance,App testing,11565.79,Income
+2025-03-18,Food,Snacks,4283.01,Expense
+2025-03-20,Travel,Vacation trip,104.88,Expense
+2025-03-27,Travel,Bus pass,1807.34,Expense
+2025-01-28,Healthcare,Checkup,4409.24,Expense
+2025-02-07,Bonus,Quarterly bonus,6676.26,Income
+2025-04-01,Healthcare,Checkup,3198.04,Expense
+2025-01-21,Education,Books,767.68,Expense
+2025-01-16,Healthcare,Checkup,2997.48,Expense
+2025-05-14,Food,Dinner,1680.03,Expense
+2025-01-24,Education,Books,1033.99,Expense
+2025-04-15,Education,Tuition fee,2419.0,Expense
+2025-03-24,Bills,Mobile recharge,1044.57,Expense
+2025-06-29,Bills,Electricity,2682.15,Expense
+2025-01-15,Bills,Internet,1188.15,Expense
+2025-05-31,Education,Tuition fee,2986.2,Expense
+2025-03-31,Transport,Bus fare,2593.37,Expense
+2025-06-03,Education,Online course,968.92,Expense
+2025-04-13,Gift,Friend's gift,4368.92,Expense
+2025-03-20,Education,Tuition fee,418.08,Expense
+2025-06-25,Shopping,Accessories,2317.96,Expense
+2025-02-12,Transport,Bus fare,3865.25,Expense
+2025-03-02,Investment Return,Crypto profit,27280.89,Income
+2025-01-31,Bonus,Quarterly bonus,2890.97,Income
+2025-06-25,Shopping,Accessories,4036.5,Expense
+2025-04-23,Travel,Vacation trip,1471.71,Expense
+2025-05-30,Healthcare,Insurance,4043.25,Expense
+2025-01-23,Shopping,Electronics,4975.47,Expense
+2025-03-24,Travel,Vacation trip,4656.39,Expense
+2025-03-01,Freelance,App testing,18334.88,Income
+2025-02-21,Entertainment,Games,3724.37,Expense
+2025-01-26,Travel,Vacation trip,4318.47,Expense
+2025-03-17,Travel,Vacation trip,389.27,Expense
+2025-05-12,Transport,Bus fare,125.72,Expense
+2025-04-08,Investment Return,Stocks,8907.57,Income
+2025-06-27,Transport,Bus fare,1693.08,Expense
+2025-06-06,Travel,Bus pass,4266.5,Expense
+2025-01-07,Healthcare,Insurance,2341.41,Expense
+2025-01-08,Transport,Cab,1043.39,Expense
+2025-06-13,Shopping,Clothes,291.21,Expense
+2025-01-09,Healthcare,Checkup,2466.14,Expense
+2025-04-07,Transport,Cab,4314.76,Expense
+2025-04-11,Healthcare,Insurance,3725.7,Expense
+2025-01-18,Healthcare,Checkup,2205.93,Expense
+2025-04-27,Entertainment,Netflix,3664.49,Expense
+2025-01-18,Gift,Birthday,4836.01,Expense
+2025-05-12,Bills,Internet,449.72,Expense
+2025-04-15,Gift,Anniversary gift,3703.79,Expense
+2025-04-02,Shopping,Electronics,1262.07,Expense
+2025-01-03,Bills,Electricity,2875.78,Expense
+2025-05-10,Transport,Fuel,1067.56,Expense
+2025-02-21,Education,Tuition fee,3504.82,Expense
+2025-04-24,Food,Dinner,2881.17,Expense
+2025-03-16,Healthcare,Insurance,4083.69,Expense
+2025-04-13,Gift,Friend's gift,4399.49,Expense
+2025-02-26,Food,Dinner,4998.25,Expense
+2025-01-02,Healthcare,Medicines,4238.99,Expense
+2025-02-04,Investment Return,Crypto profit,29822.11,Income
+2025-06-11,Entertainment,Movie,456.19,Expense
+2025-06-09,Freelance,Web design,4767.96,Income
+2025-05-03,Shopping,Accessories,763.03,Expense
+2025-04-14,Travel,Train ticket,3397.46,Expense
+2025-06-28,Healthcare,Checkup,4640.24,Expense
+2025-02-09,Investment Return,Crypto profit,12999.35,Income
+2025-02-12,Education,Books,3470.33,Expense
+2025-04-07,Gift,Anniversary gift,2900.39,Expense
+2025-06-15,Food,Snacks,1287.65,Expense
+2025-02-04,Investment Return,Mutual funds,18587.97,Income
+2025-05-17,Bills,Electricity,737.04,Expense
+2025-02-10,Education,Online course,2275.64,Expense
+2025-04-25,Gift,Friend's gift,1765.01,Expense
+2025-03-01,Investment Return,Stocks,25503.25,Income
+2025-03-24,Transport,Fuel,4719.08,Expense
+2025-03-11,Entertainment,Concert,3550.86,Expense
+2025-04-09,Salary,Side job salary,21510.17,Income
+2025-04-29,Transport,Bus fare,1792.13,Expense
